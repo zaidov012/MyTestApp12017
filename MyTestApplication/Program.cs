@@ -8,6 +8,7 @@ namespace MyTestApplication
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("TESTING GitHub");
+            Console.WriteLine("New line for test");
         }
     }
 }
